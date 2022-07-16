@@ -16,6 +16,6 @@
 14. Menekan tombol place lalu memeriksa money yang ada di table game dengan ukuran large
 
 # Bug
-endpoint yang dipakai untuk request ke Backend tidak tersedia, jadinya tidak bisa mendapatkan data JSON seperti yang sudah dijelaskan di soal test
+endpoint yang dipakai untuk request ke Backend terjadi masalah, jadinya tidak bisa mendapatkan data JSON seperti yang sudah dijelaskan di soal test
 
 ![image](https://user-images.githubusercontent.com/108724272/179373579-3c4fa108-dc16-461a-a86f-e639c4ef58a6.png)
