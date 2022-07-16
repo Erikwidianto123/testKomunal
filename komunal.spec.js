@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('Test interview Komunal', function() {
+describe('Test interview Komunal - Board Game', function() {
     it('Menggerakkan robot kurang dari 15 step di small table game lalu mengecek MoneyEarn nya apakah sudah sama dengan Money Found dikali dengan InterestRate', function() {
         cy.visit("https://clever-robo-test.netlify.app/")
         cy.get('.place-button').click()
